@@ -4,6 +4,11 @@ Este notebook foi desenvolvido para a disciplina de Cálculo Numérico (SME0104)
 
 ---
 
+## Nome e número USP dos membros
+
+* Fernando Alee Suaiden - 12680836
+* Felipe da Costa Coqueiro - 11781361
+
 ## Estrutura do Notebook
 
 1. **Cabeçalho**: Importação de bibliotecas e definição de funções auxiliares (por ex. `mmq`, `mmq_QR`, interpoladores, Francis, etc.).
